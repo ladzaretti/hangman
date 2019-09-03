@@ -9,4 +9,4 @@
 
 _Hangman preview_<br/>
 ![hangman1](https://raw.githubusercontent.com/Ladzaretti/hangman/master/hangman1.PNG)
-![hangeman2](raw.githubusercontent.com/Ladzaretti/hangman/master/hangman2.PNG)
+![hangeman2](https://raw.githubusercontent.com/Ladzaretti/hangman/master/hangman2.PNG)
